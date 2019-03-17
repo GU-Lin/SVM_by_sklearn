@@ -3,4 +3,4 @@
 * 使用工具
   https://scikit-learn.org/stable/
 
-  本次演練為用svm對鳶尾花來做分類
+* 本次演練為用svm對鳶尾花來做分類
