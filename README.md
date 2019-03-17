@@ -1,4 +1,6 @@
-# SVM_by_sklearn
-Using the Python with sklearn to implement SVM(support vector machine)
+* SVM維基資料
+  https://en.wikipedia.org/wiki/Support-vector_machine
+* 使用工具
+  https://scikit-learn.org/stable/
 
-* d
+  本次演練為用svm對鳶尾花來做分類
